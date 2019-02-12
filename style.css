@@ -1,0 +1,48 @@
+
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+.header {
+    background-color: #aaaaaa;
+    color: #FFFFFF; /*font colour of Bea Berrington */
+    padding: 20px;
+}
+
+}
+.text {
+    background-color: #aaaaaa;
+    color: #FFFFFF; /*font colour of Bea Berrington */
+    padding: 20px;
+}
+
+
+
+.menu li:hover {
+    background-color: #9400D3; /*unknown*/
+}.
+
+/*top bar*/
+
+.topnav {
+  overflow: hidden;
+  background-color: #9400D3 /*unknown*/;
+}
+
+.topnav a {
+  float: left;
+  color: #000000; /*text of ones we're not on*/
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd; /*colour of box when we hover*/
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50; /*colour of box which we are on*/
+  color: white;
+}
